@@ -1,6 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
 .banner {
   background-color: #3895E2;
   padding: 10px;
   text-align: center;
   font-family: chaucer, "Times New Roman";
+}
+
+main {
+  text-align: center;
 }
