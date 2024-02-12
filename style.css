@@ -3,6 +3,7 @@ html {
   width: 100%;
 }
 
+/* banner rules */
 .banner {
   background-color: #3895E2;
   padding: 10px;
@@ -10,6 +11,7 @@ html {
   font-family: chaucer, "Times New Roman";
 }
 
+/* aligning the main text to center */
 main {
   text-align: center;
 }
@@ -23,6 +25,7 @@ h2 {
   color: 
 }
 
+/*setting the paragraph's font size */
 p {
   font-size: 15px;
 }
@@ -34,7 +37,7 @@ article {
 a:visited {
   color: green;
 }
-
+/*changing the color of the link when the cursor hovers over it*/
 a:hover {
   color: red;
 }
