@@ -30,3 +30,15 @@ p {
 article {
   text-align: center;
 }
+
+a:visited {
+  color: green;
+}
+
+a:hover {
+  color: red;
+}
+
+a:link {
+  color: blue;
+}
